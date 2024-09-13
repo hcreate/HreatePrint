@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "esc.h": "c",
+        "stdio.h": "c",
+        "algorithm.h": "c",
+        "hcreate.h": "c",
+        "comm.h": "c",
+        "hcprase.h": "c",
+        "tspl.h": "c",
+        "bitmap.h": "c",
+        "cpcl.h": "c",
+        "zpl.h": "c",
+        "epl.h": "c"
+    }
+}
